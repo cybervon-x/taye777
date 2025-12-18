@@ -1,4 +1,4 @@
-                                         **Blue Team | SOC & Incident Response**
+                                     **Blue Team | SOC & Incident Response**
 
 ---
 
